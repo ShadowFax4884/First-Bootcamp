@@ -1,0 +1,26 @@
+div
+{
+    width: 100px;
+    height: 100px;
+    border: solid red;
+}
+
+img {
+    border: 15 groove chocolate;
+}
+
+.lioneone {
+    border: 15 solid chocolate;
+}
+
+.lionetwo {
+    border: 15 dot-dash chocolate;
+}
+
+.lionethree {
+    border: 15 double chocolate;
+}
+
+.lionefour {
+    border: 10px dotted chocolate;
+}
