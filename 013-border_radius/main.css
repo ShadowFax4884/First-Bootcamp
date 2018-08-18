@@ -3,6 +3,10 @@ div
     width: 100px;
     height: 100px;
     border: solid red;
+    border-radius: 100%;
+    background-image: url("../009-relative_urls/AC.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 img {
