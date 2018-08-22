@@ -9,6 +9,17 @@ div
     background-repeat: no-repeat;
 }
 
+.tt
+{
+    width: 100px;
+    height: 100px;
+    border: red groove 5px;
+    border-radius: 100%;
+    background-image: url("../009-relative_urls/img/AC.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 img {
     border: 15px groove chocolate;
 }
@@ -27,4 +38,10 @@ img {
 
 .lionefour {
     border: 10px dotted chocolate;
+}
+
+.AC
+{
+    border: red solid 10px;
+    border-radius: 100%;
 }
