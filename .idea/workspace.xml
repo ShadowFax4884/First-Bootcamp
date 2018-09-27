@@ -2,12 +2,89 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8377b093-aa21-4e40-bf17-caafcdbb45ce" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/015-padding_margin/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/015-padding_margin/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/016-box_model/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/016-box_model/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-css_reset/00_without-reset/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-css_reset/01_eric-meyer-reset/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-css_reset/01_eric-meyer-reset/reset-eric-meyer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-css_reset/02_normalize-reset/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-css_reset/02_normalize-reset/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-css_reset/03_sanitize-reset/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-css_reset/03_sanitize-reset/sanitize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-css_reset/04_mcleod-reset/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-css_reset/04_mcleod-reset/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-css_reset/04_mcleod-reset/mcleod-reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/01_element/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/01_element/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/02_class/img/firefox-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/02_class/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/02_class/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/03_id/01_correct/img/firefox-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/03_id/01_correct/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/03_id/01_correct/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/03_id/02_incorrect/img/firefox-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/03_id/02_incorrect/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/03_id/02_incorrect/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/04_attribute/01/img/firefox-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/04_attribute/01/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/04_attribute/01/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/04_attribute/02/img/firefox-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/04_attribute/02/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/04_attribute/02/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/04_attribute/03/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/04_attribute/03/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/01_link/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/01_link/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/02_visited/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/02_visited/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/03_hover/01_link/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/03_hover/01_link/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/03_hover/02_div/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/03_hover/02_div/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/04_active/01_link/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/04_active/01_link/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/04_active/02_button-form/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/04_active/02_button-form/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/05_focus/01_link/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/05_focus/01_link/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/05_focus/02_element/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/05_focus/02_element/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/05_focus/03_element-form/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/05_focus/03_element-form/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/05_focus/04_focus-vs-active/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/05_focus/04_focus-vs-active/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/06_nth-child/01_first-child/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/06_nth-child/01_first-child/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/06_nth-child/02_last-child/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/06_nth-child/02_last-child/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/06_nth-child/03_nth-child-even/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/06_nth-child/03_nth-child-even/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/06_nth-child/04_nth-child-odd/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/06_nth-child/04_nth-child-odd/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/06_nth-child/05_zebra-striping/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/06_nth-child/05_zebra-striping/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/06_nth-child/06_nth-child-n/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/06_nth-child/06_nth-child-n/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/06_nth-child/07_nth-last-child-n/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/06_nth-child/07_nth-last-child-n/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/06_nth-child/08_nth-child-anb/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/06_nth-child/08_nth-child-anb/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/06_nth-child/09_only-child/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/06_nth-child/09_only-child/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/07_typography/01_first-letter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/07_typography/01_first-letter/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/07_typography/02_first-line/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/05_pseudo-class/07_typography/02_first-line/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/06_nested-selectors/01_all-children/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/06_nested-selectors/01_all-children/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/06_nested-selectors/02_immediate-children/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/06_nested-selectors/02_immediate-children/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/06_nested-selectors/03_all-siblings/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/06_nested-selectors/03_all-siblings/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/06_nested-selectors/04_immediate-siblings/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/06_nested-selectors/04_immediate-siblings/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/07-fun/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/07-fun/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_css-selectors/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/014-display/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/014-display/main.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,34 +97,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/017-handson_excersice/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="390">
-                  <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/017-handson_excersice/main.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -99,6 +149,9 @@
         <option value="$PROJECT_DIR$/015-padding_margin/main.css" />
         <option value="$PROJECT_DIR$/017-handson_excersice/index.html" />
         <option value="$PROJECT_DIR$/017-handson_excersice/main.css" />
+        <option value="$PROJECT_DIR$/019_css-selectors/02_class/main.css" />
+        <option value="$PROJECT_DIR$/019_css-selectors/02_class/index.html" />
+        <option value="$PROJECT_DIR$/019_css-selectors/04_attribute/02/index.html" />
       </list>
     </option>
   </component>
@@ -122,6 +175,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,21 +183,10 @@
               <item name="first-bootcamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="first-bootcamp" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="first-bootcamp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first-bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="016-box_model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="first-bootcamp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first-bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="017-handson_excersice" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,16 +197,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\first-bootcamp\016-box_model" />
-      <recent name="G:\first-bootcamp\015-padding_margin" />
-      <recent name="G:\first-bootcamp" />
-      <recent name="G:\first-bootcamp\013-border_radius" />
-      <recent name="G:\first-bootcamp\011-handson_excersice" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\first-bootcamp\011-handson_excersice" />
       <recent name="G:\first-bootcamp\011-handson_excersice\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\first-bootcamp" />
+      <recent name="G:\first-bootcamp\018-css_reset" />
+      <recent name="G:\first-bootcamp\016-box_model" />
+      <recent name="G:\first-bootcamp\015-padding_margin" />
+      <recent name="G:\first-bootcamp\013-border_radius" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -190,9 +233,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.21875" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21875" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" />
@@ -217,48 +259,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/005_essential-tags/01_paragraph-element/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/005_essential-tags/02_heading-elements/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/005_essential-tags/05_emmet/index.html" />
-    <entry file="file://$PROJECT_DIR$/006_emmet/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/common.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="124" column="18" selection-start-line="124" selection-start-column="18" selection-end-line="124" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/005_essential-tags/01_paragraph-element/C.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/008_absolute_urls/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/008_absolute_urls/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/009-relative_urls/AC.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -460,17 +460,111 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/017-handson_excersice/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/017-handson_excersice/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
+        <state relative-caret-position="360">
           <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/017-handson_excersice/main.css">
+    <entry file="file://$PROJECT_DIR$/018-css_reset/00_without-reset/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/018-css_reset/04_mcleod-reset/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/018-css_reset/02_normalize-reset/normalize.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/018-css_reset/04_mcleod-reset/mcleod-reset.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/018-css_reset/04_mcleod-reset/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        <state relative-caret-position="330">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/019_css-selectors/01_element/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/019_css-selectors/01_element/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/019_css-selectors/02_class/img/firefox-icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/019_css-selectors/02_class/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/019_css-selectors/02_class/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/019_css-selectors/03_id/01_correct/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/019_css-selectors/03_id/01_correct/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/019_css-selectors/04_attribute/01/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/019_css-selectors/04_attribute/01/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/019_css-selectors/04_attribute/02/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/019_css-selectors/04_attribute/02/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-269">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/019_css-selectors/04_attribute/03/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/019_css-selectors/04_attribute/03/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
         </state>
       </provider>
     </entry>
