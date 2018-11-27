@@ -1,0 +1,18 @@
+.p{
+    /*width: 100%;*/
+    height: 100px;
+    background-color: #80ff5a;
+    color: #040401;
+    border: 5px groove #0000FF;
+    border-radius: 10px;
+}
+.c{
+    width: 200px;
+    height: 200px;
+    background-color: chocolate;
+    border: 5px groove #FF0000;
+    border-radius: 100px;
+    background-image: url("img/Mohsen.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
