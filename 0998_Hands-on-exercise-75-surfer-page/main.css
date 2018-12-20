@@ -1,0 +1,29 @@
+html{
+    background-color:#0000FF;
+}
+body{
+    background-color: #308014;
+    border: 5px solid black;
+    margin: 0 250px;
+}
+
+img{
+    border: 15px ridge orange;
+    margin: 15px auto;
+    display: block;
+    /*background-image: url("img/surf.jpg");*/
+    /*background-size: cover;*/
+    /*background-repeat: no-repeat;*/
+    border-radius: 100%;
+}
+h2{
+    color: #1dd1d0;
+    margin: 20px 15px;
+}
+p{
+    margin: 20px 15px;
+    font-size: 20px;
+}
+.N1{
+    color: #FF0000;
+}
