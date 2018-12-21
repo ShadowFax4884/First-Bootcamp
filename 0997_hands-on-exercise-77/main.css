@@ -1,0 +1,33 @@
+#third{
+    color: darkred;
+}
+.p1{
+    color: orangered;
+}
+[target="_blank"]{
+    border: 5px solid black;
+}
+a:link{
+    color: #0000FF;
+}
+a:visited{
+    color: silver;
+}
+a:hover{
+    color: orangered;
+}
+a:active{
+    color: #00FF00;
+}
+p:first-letter {
+    font-size: 36px;
+    font-family: cursive;
+    line-height: 60px;
+    color: #FF0000;
+}
+p:first-line{
+    font-size: 20px;
+    color: brown;
+    font-family:cursive;
+}
+
